@@ -71,5 +71,5 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 <h2>Contact</h2>   <br>
 
-    Your neevtshah@gmail.com   <br>
-    GitHub: Alpha0705    <br>
+    Your neevtshah@gmail.com   
+    GitHub: Alpha0705    
