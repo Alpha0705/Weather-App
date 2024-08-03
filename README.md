@@ -73,3 +73,6 @@ Contributions are welcome! Please fork this repository and create a pull request
 
     Your neevtshah@gmail.com   
     GitHub: Alpha0705    
+
+<h2>Credits</h2> <br>
+   freeCodeCamp.org
